@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-movie-poster-context-auditor
-description: "Anchor the primary component under discussion in sentence-opening subject position."
+description: "Anchor the primary component under discussion in sentence-opening subject position." Use this when working on fitzpatrick movie poster context auditor.
 category: "Writing & Communication"
 triggers:
   - "movie poster auditor"
@@ -8,6 +8,9 @@ triggers:
   - "focal subject consistency"
   - "sentence opening anchor"
   - "prevent attention jumping"
+risk: unverified
+author: william-fitzpatrick
+tags: [kirby, ai-agent, workflow]
 ---
 
 # kirby-fitzpatrick-movie-poster-context-auditor
@@ -16,3 +19,14 @@ triggers:
 > **Core Architectural Reference**:
 > For operational workflows, rules, and syntactic transformations, see:
 > [`references/00_dispatcher.md`](references/00_dispatcher.md)
+
+
+## Examples
+
+*(Add specific conversational examples here showing how the agent should behave.)*
+
+
+## Limitations (When NOT to Use)
+
+- Do not use this skill outside of its intended scope.
+- Stop and ask the user for clarification if the requirements are ambiguous.
