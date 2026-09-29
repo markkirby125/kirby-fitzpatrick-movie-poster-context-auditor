@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-movie-poster-context-auditor
-description: "Anchor the primary component under discussion in sentence-opening subject position." Use this when working on fitzpatrick movie poster context auditor.
+description: "Anchor the primary component under discussion in sentence-opening subject position. Use this when working on fitzpatrick movie poster context auditor."
 category: "Writing & Communication"
 triggers:
   - "movie poster auditor"
